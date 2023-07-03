@@ -1,4 +1,4 @@
-module tag-service
+module github.com/hd2yao/tag-service
 
 go 1.20
 
